@@ -13,7 +13,6 @@ async function bootstrap() {
       .setTitle('Udemy - Nest JS course')
       .setDescription('The demo API description')
       .setVersion('1.0')
-      .addTag('nestjs')
       .build();
     const document = SwaggerModule.createDocument(app, config);
     SwaggerModule.setup('swagger-ui', app, document);
