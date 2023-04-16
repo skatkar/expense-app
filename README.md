@@ -77,3 +77,4 @@ $ nest g controller controller-name
 # References
 
 - [Versioning in NestJS](https://javascript.plainenglish.io/how-to-use-versioning-in-nestjs-45d7c413e72b)
+- [Debugging NestJS in vscode](https://plainenglish.io/blog/debugging-nestjs-in-vscode)
